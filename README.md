@@ -5,3 +5,6 @@ This is a funny change.
 
 ## New Changes
 This is another change, hope you like it!
+
+### Splatoon Warning
+Hope the image makes sense to you. If not, please play Splatoon 3 (it's good).
